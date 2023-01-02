@@ -2,7 +2,7 @@
 
 - Statistics X
 
-- Models
+- Models X 
 
 - Parameters
 
