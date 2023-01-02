@@ -4,7 +4,9 @@
 
 - Models X 
 
-- Parameters
+- Parameters X (would like to explain more why the fits are best)
 
 - Keras file 
+
+- ReadME
 
