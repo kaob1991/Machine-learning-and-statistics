@@ -6,7 +6,7 @@ Author: Katie O'Brien G00398250
 
 ***
 
-The student was asked to complete a series of exercises as part of weekly tasks, and submit these to a repository on GitHub. The student was also tasked with re-creating the __Keras Time Series Anomaly__  task that is available at the following website : https://keras.io/examples/timeseries/timeseries_anomaly_detection/
+The student was asked to complete a series of exercises as part of weekly tasks, and submit these to a repository on GitHub. The student was also tasked with re-creating the __Keras Time Series Anomaly__  task that is available at the following website: https://keras.io/examples/timeseries/timeseries_anomaly_detection/
 
 
 ## Marks were to be given as follows: 
@@ -42,8 +42,8 @@ The student was asked to complete a series of exercises as part of weekly tasks,
 
 ## The Repository 
 
-This repository contains a number of jupyter notebooks that are viewable in a number of ways: 
-  - Firstly, they can be viewed in the github repository here by clicking into each. They will be rendered in github but are not customisable or editable
+This repository contains a number of jupyter notebooks that are viewable in several ways: 
+  - Firstly, they can be viewed in the GitHub repository here by clicking into each. They will be rendered in GitHub but are not customizable or editable
   
   - They can also be viewed using NBviewer:
     - The Statistics one is available at: https://nbviewer.org/github/kaob1991/Machine-learning-and-statistics/blob/main/Statistics.ipynb
